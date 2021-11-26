@@ -1,2 +1,1 @@
 # my--gatsby-site
-gatsby
